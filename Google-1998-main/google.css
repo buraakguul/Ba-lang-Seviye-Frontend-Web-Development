@@ -1,0 +1,59 @@
+img {
+    display: block;
+    margin: auto;
+}
+.container {
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+}
+
+.box1 {
+    width: 700px;
+    float: left;
+    padding-left: 150px;
+    margin-right: 100%;
+}
+
+.bgc-gray {
+    padding-right: 120px;
+    background-color: rgb(192, 186, 186);
+}
+
+.card1{
+    width: 400px;
+    float: left;
+    margin: 1px;
+}
+
+.card2{
+    width: 200px;
+    float: left;
+    margin: 1px;
+}
+
+.card3{
+    width: 150px;
+    float: left;
+    margin: 1px;
+}
+
+.bgc-blue1 {
+    height: 80px;
+    width: 400px;
+    background-color: rgb(145, 224, 235);
+
+}
+
+.bgc-blue2{
+    height: 80px;
+    width: 200px;
+    background-color: rgb(145, 224, 235);
+}
+
+.bgc-blue3{
+    height: 80px;
+    padding-left: 105px;
+    padding-right: 110px;
+    background-color: rgb(145, 224, 235);
+}
