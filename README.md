@@ -1,1 +1,1 @@
-# Ba-lang-Seviye-Frontend-Web-Development
+# Baslangic-Seviye-Frontend-Web-Development
